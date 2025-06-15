@@ -23,7 +23,7 @@
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="bootstrap" width="45" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/> 
 </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development.png" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QXXviQI-N1jzuOOajsIe7g.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edmonparajuli&show_icons=true&locale=en&layout=compact" alt="edmonparajuli" /></p>
